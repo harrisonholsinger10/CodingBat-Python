@@ -4,7 +4,7 @@
 *.idea/
 
 # Ignore venv folder
-*.venv/
+*venv/
 
 # Ignore pychache
 *__pycache__/
