@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+# Ignore .idea folder
+*.idea/
+
+# Ignore venv folder
+*.venv/
+
+# Ignore pychache
+*__pycache__/

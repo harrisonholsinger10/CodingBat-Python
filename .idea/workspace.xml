@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc0b9e3d-4f01-4022-98ca-5bd1a5b82d93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Warmup-1/CodingBat-Python_Application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/diff21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/front3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/front_back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/makes10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/missing_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/monkey_trouble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/near_hundred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/not_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/parrot_trouble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/pos_neg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warmup-1/sum_double.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodingBat-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingBat - Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warmup-1/sleep_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/Warmup-1/sleep_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +33,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/usr012372/CodingBat-Python&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/usr012372/CodingBat-Python",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +59,7 @@
       <workItem from="1668800357389" duration="44000" />
       <workItem from="1669045160318" duration="491000" />
       <workItem from="1669060017944" duration="1708000" />
+      <workItem from="1669128969318" duration="479000" />
     </task>
     <servers />
   </component>
