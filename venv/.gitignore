@@ -1,7 +1,7 @@
 # created by virtualenv automatically
 
 # Ignore .idea folder
-*.idea/
+*idea/
 
 # Ignore venv folder
 *venv/
