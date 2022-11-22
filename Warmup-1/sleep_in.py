@@ -7,8 +7,5 @@ def sleep_in(weekday, vacation):
     if not weekday or vacation:
         return True
     else:
-<<<<<<< HEAD
         return False
-=======
-        return False
->>>>>>> 36baaa9 (Warmup-1)
+    return False
